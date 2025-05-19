@@ -3,3 +3,9 @@
 ##### Naja, war gar nicht so schlimm ^^
 
 ![Bild von der lustigen Katze aus der Uebung](https://octodex.github.com/images/yaktocat.png)
+
+Code example:
+``` javascript
+var myVar = "Hello, world!";
+int age = 25;
+``` 
