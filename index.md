@@ -1,3 +1,5 @@
 # Wow, ist das groß
 ### Ist das schon die ganze Übung?
 ##### Naja, war gar nicht so schlimm ^^
+
+![Bild von der lustigen Katze aus der Uebung](https://octodex.github.com/images/yaktocat.png)
