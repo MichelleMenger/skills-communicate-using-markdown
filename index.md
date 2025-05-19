@@ -9,3 +9,8 @@ Code example:
 var myVar = "Hello, world!";
 int age = 25;
 ``` 
+
+Und To Do Listen sind ja auch super wichtig:
+- [x] Liste schreiben
+- [x] Ersten Punkt abhaken
+- [ ] Feierabend machen
